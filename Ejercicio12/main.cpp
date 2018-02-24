@@ -4,7 +4,7 @@
 using namespace std;
 
 int main()
-/* Este programa calcula las primeras potencias de un número dado por el usuario*/
+/* Este programa calcula las primeras potencias de un número dado por el usuario.*/
 
 {
     int i, exp, numero; /* declaramos las variables como enteros*/
