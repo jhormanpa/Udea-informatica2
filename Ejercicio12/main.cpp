@@ -1,5 +1,5 @@
 #include <iostream>
-#include <math.h>
+#include <math.h> /* agregamos este paquete para poder usar la función de pow.*/
 
 using namespace std;
 
