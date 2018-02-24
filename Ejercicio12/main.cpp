@@ -7,7 +7,7 @@ int main()
 /* Este programa calcula las primeras potencias de un número dado por el usuario*/
 
 {
-    int i, exp, numero; /* declaramos las variables como enteros*/
+    int i, exp, numero; /* declaramos las variables como enteros.*/
 
     cout<<"ingrese por favor el número para hallar sus primeras 5 potencias ";
 
