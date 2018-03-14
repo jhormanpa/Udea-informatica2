@@ -16,7 +16,7 @@ int main()
                                              con la condición*/
            break;
     }
-     /* le restamos a la primera y última letra para acercanos y comparar de nuevo hasta llegar a su mitad*/
+     // le restamos a la primera y última letra para acercanos y comparar de nuevo hasta llegar a su mitad
      J--;
      I++;
     }
